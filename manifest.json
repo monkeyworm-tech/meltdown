@@ -1,9 +1,0 @@
-{
-  "name": "Meltdown",
-  "start_url": "/?home=true",
-  "icons": [],
-  "theme_color": "#0066FF",
-  "background_color": "#0066FF",
-  "display": "fullscreen",
-  "orientation": "portrait"
-}
