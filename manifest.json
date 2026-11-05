@@ -1,0 +1,23 @@
+{
+  "short_name": "GD Meltdown",
+  "name": "Geometry Dash Meltdown",
+  "icons": [
+    {
+      "src": "https://play-lh.googleusercontent.com/eGwVBfqYTO-BUs757RxOJYW2SvchNu3s1ivN3nmYF9lDW04SRSg5VWY0-D14nugE1A7XJk0omENU5BL3RkbmGQ=w240-h480-rw",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://play-lh.googleusercontent.com/eGwVBfqYTO-BUs757RxOJYW2SvchNu3s1ivN3nmYF9lDW04SRSg5VWY0-D14nugE1A7XJk0omENU5BL3RkbmGQ=w240-h480-rw",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#16181e",
+  "theme_color": "#16181e",
+  "display": "fullscreen",
+  "orientation": "landscape"
+}
